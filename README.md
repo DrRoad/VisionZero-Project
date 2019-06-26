@@ -4,7 +4,7 @@
   <img width="1000" src="https://github.com/yiqiao-yin/Investigation-of-High-order-Interactions-in-VisionZero-Project/blob/master/figs/background.gif">
 </p>
 
-This project investigates the higher-order interactions in VisionZero Traffic Dataset. The following provides a brief for audience. For more detailed report, please go to [main report](https://github.com/yiqiao-yin/Investigation-of-High-order-Interactions-in-VisionZero-Project/blob/master/docs/main.pdf).
+This project investigates the higher-order interactions in VisionZero Traffic Dataset. The following provides a brief for audience. For more detailed report, please go to [main report](https://github.com/yiqiao-yin/Investigation-of-High-order-Interactions-in-VisionZero-Project/blob/master/docs/main.pdf). At predicting whether there is a fatality on the street given road conditions, we deliver strategies at above 94% while benchmark given was around 80%, a 70% error reduction.
 
 # Introduction
 
