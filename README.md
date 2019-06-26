@@ -40,6 +40,16 @@ The following section we search for an algorithm to further explore our target, 
 
 We test screened and engineered data set using common machine learning algorithms such as Bagging or Bootstrap Aggregation, Gradient Boosting Machine, Naive Bayes, Linear Model or Least Squares, Tree-based Algorithms (RF, iterative RF, Bayesian Additive Regression Tree or BART).
 
+| Name | Result (Measured by AUC) |
+| --- | --- |
+| Bagging or Bootstrap Aggregation |	0.372 |
+| Gradient Boosting Machine |	0.903 |
+| Naive Bayes |	0.847 
+| Linear Model or Least Squares |	0.898 |
+| Random Forest |	0.903 |
+| iterative Random Forest |	0.903 |		
+| Bayesian Additive Regression Tree (BART) |	0.972 |	
+
 # Conclusion
 
 After careful investigation of VisionZero Dataset, we proposed a generalized search algorithm to detect high-order interactions in this dataset as a screening technique to target correct model specification. This allows to achieve high performance for common machine learning algorithms.
