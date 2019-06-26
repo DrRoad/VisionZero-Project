@@ -1,4 +1,4 @@
-# Investigation of High-order Interactions in VisionZero Project
+# A Short Survey in VisionZero Project
 
 <p align="center">
   <img width="1000" src="https://github.com/yiqiao-yin/Investigation-of-High-order-Interactions-in-VisionZero-Project/blob/master/figs/background.gif">
