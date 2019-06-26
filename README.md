@@ -42,7 +42,7 @@ The following section we search for an algorithm to further explore our target, 
 
 We test screened and engineered data set using common machine learning algorithms such as Bagging or Bootstrap Aggregation, Gradient Boosting Machine, Naive Bayes, Linear Model or Least Squares, Tree-based Algorithms (RF, iterative RF, Bayesian Additive Regression Tree or BART).
 
-| Name | Result (Measured by Accuracy) |
+| Name | Test Result (Measured by Accuracy) |
 | --- | --- |
 | Bagging or Bootstrap Aggregation |	0.372 |
 | Gradient Boosting Machine |	0.903 |
