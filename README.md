@@ -44,7 +44,7 @@ We test screened and engineered data set using common machine learning algorithm
 
 | Name | Test Result (Measured by Accuracy) |
 | --- | --- |
-| Bagging or Bootstrap Aggregation |	0.372 |
+| Bagging or Bootstrap Aggregation |	0.972 |
 | Gradient Boosting Machine |	0.903 |
 | Naive Bayes |	0.847 
 | Linear Model or Least Squares |	0.898 |
