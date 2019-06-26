@@ -18,6 +18,10 @@ We are looking at a variety of treatments executed by DOT in the past since 2002
 
 We collect and clean up a list of these treatments and simply mark them treatment 1, 2, ..., and so on. Each treatment in binary form so they are coded as 1 if there exists one and 0 otherwise.
 
+<p align="center">
+  <img width="1000" src="https://github.com/yiqiao-yin/Investigation-of-High-order-Interactions-in-VisionZero-Project/blob/master/figs/corrplot.PNG">
+</p>
+
 # Lab Procedure
 
 The following section we search for an algorithm to further explore our target, Attrition, which is measured by 0 if the employee stays and 1 if the employee leaves. The task is to deliver a solution, a trainable machine, such that we can predict a new candidate's probability of Attrition with high accuracy rate.
