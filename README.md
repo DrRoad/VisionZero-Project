@@ -18,6 +18,8 @@ We are looking at a variety of treatments executed by DOT in the past since 2002
 
 We collect and clean up a list of these treatments and simply mark them treatment 1, 2, ..., and so on. Each treatment in binary form so they are coded as 1 if there exists one and 0 otherwise.
 
+The most intuitive approach is to present a correlation matrix and we can, though vaguely, visualize some patterns among variables in the data set. Conventionally, scholars will use a trial-and-error to detect variables. Sometimes more sophisticated mehods (such as Principle Components) will be attempted.
+
 <p align="center">
   <img width="1000" src="https://github.com/yiqiao-yin/Investigation-of-High-order-Interactions-in-VisionZero-Project/blob/master/figs/corrplot.PNG">
 </p>
