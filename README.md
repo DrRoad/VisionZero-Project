@@ -4,7 +4,7 @@
   <img width="1000" src="https://github.com/yiqiao-yin/Investigation-of-High-order-Interactions-in-VisionZero-Project/blob/master/figs/background.gif">
 </p>
 
-This project investigates the higher-order interactions in VisionZero Traffic Dataset
+This project investigates the higher-order interactions in VisionZero Traffic Dataset. The following provides a brief for audience. For more detailed report, please go to [main report](https://github.com/yiqiao-yin/Investigation-of-High-order-Interactions-in-VisionZero-Project/blob/master/docs/main.pdf).
 
 # Introduction
 
