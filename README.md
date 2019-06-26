@@ -22,6 +22,18 @@ We collect and clean up a list of these treatments and simply mark them treatmen
   <img width="1000" src="https://github.com/yiqiao-yin/Investigation-of-High-order-Interactions-in-VisionZero-Project/blob/master/figs/corrplot.PNG">
 </p>
 
+For example, streetscape elements are presented as the following. We have a list of tree-like treatments imposed on the streets of New York City.
+
+<p align="center">
+  <img width="1000" src="https://github.com/yiqiao-yin/Investigation-of-High-order-Interactions-in-VisionZero-Project/blob/master/figs/elements.PNG">
+</p>
+
+For another example, it is common for people to have accidents in parking lot as well. We can certainly look at the treamtments such as Parking Lanes Removed, Parking Markings, and Parking Stripe.
+
+<p align="center">
+  <img width="1000" src="https://github.com/yiqiao-yin/Investigation-of-High-order-Interactions-in-VisionZero-Project/blob/master/figs/vehicle-parking.PNG">
+</p>
+
 # Lab Procedure
 
 The following section we search for an algorithm to further explore our target, Attrition, which is measured by 0 if the employee stays and 1 if the employee leaves. The task is to deliver a solution, a trainable machine, such that we can predict a new candidate's probability of Attrition with high accuracy rate.
