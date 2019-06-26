@@ -19,7 +19,7 @@
 #################### CREATE ARTIFICIAL DATA SET: CLASSIFICATION ####################
 
 # Set seed
-set.seed(2019)
+set.seed(1)
 
 # Create data
 n <- 100 # Number of observation
@@ -56,7 +56,7 @@ all[1:5,1:3]; dim(all)
 #################### CREATE ARTIFICIAL DATA SET: REGRESSION ####################
 
 # Set seed
-set.seed(2019)
+set.seed(1)
 
 # Create data
 n <- 500 # Number of observation
